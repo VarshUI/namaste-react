@@ -10,9 +10,8 @@ You can also filter and check the highest rated restaurants
 - - Search bar
 - - Restaurant container
 - - Restaurant cards
--     - Img
--     - Name of the Restaurent, Star rating, cuisine, delivery time
--
+- - Img
+- - Name of the Restaurent, Star rating, cuisine, delivery time
 - Footer
 - - Copyright
 - - Links
