@@ -4,7 +4,7 @@ You can also filter and check the highest rated restaurants
 
 
 - Header
-- -Logo
+- - Logo
 - - Nav items
 - Body
 - - Show Top Rated
