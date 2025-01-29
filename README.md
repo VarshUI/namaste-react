@@ -1,6 +1,7 @@
 In This Application we are displaying the list of Restaurants available at Koramangala !
+
 You can also filter and check the highest rated restaurants
-/\*\*
+
 
 - Header
 - -Logo
@@ -17,4 +18,4 @@ You can also filter and check the highest rated restaurants
 - - Links
 - - Address
 - - Contact
-    \*/
+
